@@ -9,7 +9,7 @@ Department of Computational and Data Sciences at Indian Institute of Science Ban
   Research Engineer [1 year, 11 months +]
 
 ### Competitive Coding
-I have participated in a few online coding competitions during by B.Tech. at Delhi Technological University. Following is the list of some of sites
+I have participated in a few online coding competitions during by B.Tech. at Delhi Technological University. Following is the list of my profile at some of sites
 * [CodeChef](https://www.codechef.com/users/bharati24)
 * [Hacker Earth](https://www.hackerearth.com/@bharati)
 * [Spoj](https://www.spoj.com/users/bharati/)
