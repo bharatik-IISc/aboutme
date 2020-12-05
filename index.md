@@ -8,7 +8,7 @@ Department of Computational and Data Sciences at Indian Institute of Science Ban
 * Center for Development of Telematics,
   Research Engineer [1 year, 11 months +]
 
-### Competitive Coding
+## Competitive Coding
 I have participated in a few online coding competitions during by B.Tech. at Delhi Technological University. Following is the list of my profile at some of sites
 * [CodeChef](https://www.codechef.com/users/bharati24)
 * [Hacker Earth](https://www.hackerearth.com/@bharati)
